@@ -1,0 +1,4 @@
+server.ssl.key-password=Password123!
+server.ssl.key-store=src/main/resources/serverAPI.jks
+server.ssl.key-store-type=JKS
+server.ssl.key-alias = serverAPI
